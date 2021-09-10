@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cats</string>
+
+    <string name="app_title">Cats - Galeria de Imagens</string>
+
+    <string name="http_error">Falha ao recuperar imagens!\nErro ao realizar requisição HTTP.</string>
+
+    <string name="status_load">Carregando Imagens…</string>
+    <string name="status_erro_app">Erro ao carregar Imagens!\nFalha no aplicativo!</string>
+    <string name="status_erro_serv">Erro ao carregar Imagens!\n\nErro servidor: </string>
+    <string name="status_empty">Imagens não localizadas!</string>
+    <string name="imagem">Recurso de Imagem</string>
+
+</resources>
