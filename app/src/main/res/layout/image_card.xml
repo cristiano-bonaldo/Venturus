@@ -20,5 +20,6 @@
             android:layout_height="150dp"
             android:contentDescription="@string/imagem" />
     </LinearLayout>
+	
 
 </androidx.cardview.widget.CardView>
